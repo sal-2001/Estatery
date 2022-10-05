@@ -1,0 +1,96 @@
+.location{
+    margin-left: auto;
+    margin-right: auto; 
+    font-family: 'Poppins', sans-serif;
+    width: 170px;
+}
+
+.locationLabel > span{
+    font-size: 14px;
+    color: gray;
+}
+.filterIcon{
+    font-size: 14px;
+    margin-left: 5px;
+    color: gray;
+}
+.dateRange{
+    margin-left: auto;
+    margin-right: auto; 
+    width: 100px;
+}
+
+.dateLabel > span{
+    font-size: 14px;
+    color: gray;
+}
+.calendarIcon{
+    font-size: 15px;
+    margin-left: 5px;
+    color: black;
+}
+#date
+{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    cursor: pointer;
+}
+.datePicker{
+    border: none;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.datePicker:focus
+{
+    outline: none;
+}
+.calendarIcon{
+    color: blueviolet;
+    font-size: 15px;
+    margin-left: -15px;
+    z-index: 1;
+}
+
+.priceRange{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+#price{
+    margin-top: 10px;
+    cursor: pointer;
+}
+.priceLabel > span{
+    font-size: 14px;
+    color: gray;
+}
+#property{
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+.propertyType{
+    margin-left: auto;
+    margin-right: auto; 
+    cursor: pointer;
+    width: 170px;
+}
+.propLabel{
+    margin-bottom: 15px;
+}
+.propLabel > span{
+    font-size: 14px;
+    color: gray;
+}
+.Dropdown-control{
+    cursor: pointer !important;
+    border: none !important;
+    font-size: 14px !important;
+}
+.Dropdown-menu{
+    font-size: 14px !important;
+}
+

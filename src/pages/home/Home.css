@@ -1,0 +1,41 @@
+.home{
+    background-color: #f2f7ff;
+    background-size: cover;
+    padding: 40px 150px;
+}
+.featured{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.featured > h1{
+    font-size: 25px;
+}
+.searchicon
+{
+    margin-left: -26px;
+    font-size: 15px;
+    font-weight: 600;
+    color: blueviolet;
+    background-color: rgb(209, 174, 243);
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+    padding: 3px;
+    cursor: pointer;
+}
+.searchbar
+{   border: 1px solid rgb(255, 204, 248);
+    border-radius: 10px;
+    padding: 12px;
+}
+.searchbar:focus{
+    outline: none;
+}
+.items{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}

@@ -1,0 +1,39 @@
+.footer {
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.fLists {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.fList {
+    list-style: none;
+    padding: 0px;
+}
+
+.fListItem {
+    margin-bottom: 10px;
+    color: #003580;
+    cursor: pointer;
+}
+
+.ftext {
+    color: blueviolet;
+    font-weight: 700;
+    margin: auto;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid blueviolet;
+}
