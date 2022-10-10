@@ -12,7 +12,7 @@
 .featured > h1{
     font-size: 25px;
 }
-.searchicon
+.searchIcon
 {
     margin-left: -26px;
     font-size: 15px;
@@ -25,12 +25,12 @@
     padding: 3px;
     cursor: pointer;
 }
-.searchbar
+.searchBar
 {   border: 1px solid rgb(255, 204, 248);
     border-radius: 10px;
     padding: 12px;
 }
-.searchbar:focus{
+.searchBar:focus{
     outline: none;
 }
 .items{

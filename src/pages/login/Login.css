@@ -1,0 +1,80 @@
+.login{
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.logoContainer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.logoImg{
+    width: 40px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.logoText{
+    margin-bottom: 4px;
+    color: rgb(56, 2, 114);
+}
+.loginContainer{
+    width: 300px;
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    border: 1px solid lightgray;
+    border-radius: 7px;
+}
+.loginContainer > h1{
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.loginContainer > form > h5 {
+    margin-bottom: 5px;
+}
+.loginContainer > form > input {
+    height: 30px;
+    background-color: white;
+    border: 2px solid blueviolet;
+    border-radius: 3px;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 96%;
+}
+.loginContainer > form > input:focus{
+    outline: none;
+}
+.loginContainer > p {
+    margin-top: 15px;
+    font-size: 12px;
+}
+.loginSigninButton{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 5px;
+    width:100%;
+    border: 1px solid;
+    margin-top: 10px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.loginQn{
+    margin-top: 15px;
+    font-size: 12px;
+    text-align: center;
+}
+.loginQnlink{
+    color: blueviolet;
+    font-weight: 500;
+    font-size: 13px;
+}

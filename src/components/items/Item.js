@@ -3,12 +3,45 @@ import "./Item.css";
 import { faHeart } from '@fortawesome/free-regular-svg-icons';
 import {faBed, faBathtub, faLayerGroup, faHeart as faSolidHeart, faStar} from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { useStateValue } from '../../StateProvider';
 function Item({each}) {
-    const {title, imgUrl, address, price, beds, bathrooms, area, popular, wishlist} = each;
-    const [wish, setWish] = useState(wishlist);
+    const {id, title, imgUrl, address,location, price, beds, bathrooms, area,date,proptyepe, popular, wishlisted} = each;
+    const [{wishlist}, dispatch] = useStateValue();
+    const [wish, setWish] = useState(wishlisted);
     const handleClick = () =>{
         setWish(!wish);
+        if(!wish)
+        {
+            dispatch({
+                type: "ADD_TO_WISHLIST",
+                item:{
+                    id:id,
+                    title: title,
+                    imgUrl: imgUrl,
+                    address: location,
+                    location: location,
+                    price: price,
+                    beds: beds,
+                    bathrooms: bathrooms,
+                    area: area,
+                    date: date,
+                    proptyepe: proptyepe,
+                    popular: popular,
+                    wishlisted: true,
+                }
+            })
+            console.log(wishlist.length);
+            return;
+        }else{
+            dispatch({
+                type: "REMOVE_FROM_WISHLIST",
+                id: id,
+            })
+            console.log(wishlist.length);
+            return;
+        }
     }
+
     return( 
         <div className='item'>
             <div>
@@ -24,7 +57,10 @@ function Item({each}) {
             <div className='itemDetails'>
                 <div className='priceList'>
                     <p className='priceText'><span className='itemPrice'>{`₹ ${price}`}</span>{` /month`}</p>
-                    <FontAwesomeIcon  icon={ wish? faSolidHeart : faHeart} className='heartIcon'  onClick={()=>handleClick()}/>
+                    <FontAwesomeIcon  
+                    icon={ wish? faSolidHeart : faHeart}
+                     className='heartIcon'  
+                     onClick={handleClick}/>
                 </div>    
                 <div className='itemAddress'>
                 <span className='itemTitle'>{title}</span><br/>

@@ -1,0 +1,11 @@
+.wishlist{
+    background-color: #f2f7ff;
+    background-size: cover;
+    padding: 40px 150px;
+}
+.wishlistItems{
+    display: flex;
+    margin-top: 10px;
+    flex-wrap: wrap;
+    gap: 30px;
+}

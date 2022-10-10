@@ -12,7 +12,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Villa",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 2,
@@ -27,7 +27,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Villa",
         popular: false,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 3,
@@ -42,7 +42,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Villa",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 4,
@@ -57,7 +57,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Villa",
         popular: false,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 5,
@@ -72,7 +72,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Villa",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 6,
@@ -87,7 +87,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Villa",
         popular: false,
-        wishlist: false,
+        wishlisted: false,
     },    {
         id: 7,
         title: "Deep Villa",
@@ -101,7 +101,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Villa",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 8,
@@ -116,7 +116,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Villa",
         popular: false,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 9,
@@ -131,7 +131,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Apartment",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 10,
@@ -146,7 +146,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Apartment",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 11,
@@ -161,7 +161,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Apartment",
         popular: false,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 12,
@@ -176,7 +176,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Apartment",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 13,
@@ -191,7 +191,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Apartment",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 14,
@@ -206,7 +206,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Apartment",
         popular: false,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 15,
@@ -221,7 +221,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Hotel",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 16,
@@ -236,7 +236,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Hotel",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 17,
@@ -251,7 +251,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Hotel",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 18,
@@ -266,7 +266,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Hotel",
         popular: false,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 19,
@@ -281,7 +281,7 @@ export const propertylist = [
         date: new Date(),
         proptype: "Lodging",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     },
     {
         id: 20,
@@ -296,6 +296,6 @@ export const propertylist = [
         date: new Date(),
         proptype: "Lodging",
         popular: true,
-        wishlist: false,
+        wishlisted: false,
     }
 ]
