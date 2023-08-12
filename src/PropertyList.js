@@ -2,7 +2,7 @@ export const propertylist = [
     {
         id: 1,
         title: "Casagrand Florella",
-        imgUrl: "https://www.casagrand.co.in/wp-content/uploads/2021/10/phase-2-banner-thumb-1.jpg?ver=1.200",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/phase-2-banner-thumb-1.jpg_ver=1.200?updatedAt=1691841176312",
         address: "Sarjapura, Bangalore",
         location: "Bangalore",
         price: 11000,
@@ -17,7 +17,7 @@ export const propertylist = [
     {
         id: 2,
         title: "Casagrand Florella Phase 2",
-        imgUrl: "https://www.casagrand.co.in/wp-content/uploads/2021/03/thumb-1.jpg?ver=1.200",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/thumb-1.jpg_ver=1.200?updatedAt=1691841245519",
         address: "Sarjapura, Bangalore",
         location: "Bangalore",
         price: 12500,
@@ -32,7 +32,7 @@ export const propertylist = [
     {
         id: 3,
         title: "VK Gardends Propbuysell",
-        imgUrl: "https://is1-3.housingcdn.com/4f2250e8/740405dce6903b7c7a52ab40c1804027/v0/medium/vk_gardens_propbuynsell-gandi_maisamma-hyderabad-vk_corporation.jpeg.webp",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/vk_gardens_propbuynsell-gandi_maisamma-hyderabad-vk_corporation.jpeg.webp?updatedAt=1691841281493",
         address: "Gandi Maisamma, North Hyderabad,",
         location: "Hyderabad",
         price: 4500,
@@ -47,7 +47,7 @@ export const propertylist = [
     {
         id: 4,
         title: "North Star",
-        imgUrl: "https://www.nobroker.in/blog/wp-content/uploads/2022/07/10-Villa-Projects-In-Hyderabad-1.jpg",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/10-Villa-Projects-In-Hyderabad-1.jpg?updatedAt=1691841322670",
         address: "Tellapur, Hyderabad",
         location: "Hyderabad",
         price: 9500,
@@ -62,7 +62,7 @@ export const propertylist = [
     {
         id: 5,
         title: "RK Villas",
-        imgUrl: "https://media.istockphoto.com/photos/beautiful-luxury-villa-picture-id1221865614?k=20&m=1221865614&s=612x612&w=0&h=1bn78DlerF0eZTU7YkQh_4-n578FLWPV59FrMrpKxmc=",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/istockphoto-1221865614-612x612.jpg?updatedAt=1691841366199",
         address: "Lonavala, Mumbai",
         location: "Mumbai",
         price: 8000,
@@ -77,7 +77,7 @@ export const propertylist = [
     {
         id: 6,
         title: "Asset Villas",
-        imgUrl: "https://res.cloudinary.com/thrillophilia/image/upload/c_fill,dpr_2.0,f_auto,fl_progressive.strip_profile,g_center,h_230,q_auto,w_305/v1/filestore/ei26pavaw50cc05qxz1b4yi8q6kx_JPEG43.JPG",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/ei26pavaw50cc05qxz1b4yi8q6kx_JPEG43.JPG?updatedAt=1691841412359",
         address: "Alibag, Mumbai",
         location: "Mumbai",
         price: 7000,
@@ -91,7 +91,7 @@ export const propertylist = [
     },    {
         id: 7,
         title: "Deep Villa",
-        imgUrl: "https://amazingarchitecture.com/storage/711/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/Deep-Villa-Atrey-and-Associates-New-Delhi-ndia-Amazing-Architecture-House.jpg?updatedAt=1691841648443",
         address: " Pitampura, New Delhi",
         location: "Delhi",
         price: 10500,
@@ -106,7 +106,7 @@ export const propertylist = [
     {
         id: 8,
         title: "Kautilya Marg",
-        imgUrl: "https://img.gtsstatic.net/reno/imagereader.aspx?imageurl=https%3A%2F%2Fsir.azureedge.net%2F1103i215%2Fgg8zvp9shpqwmst2fzn2yn6y04i215&option=N&h=472&permitphotoenlargement=false",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/imagereader.webp?updatedAt=1691841667231",
         address: "DL 110021, New Delhi",
         location: "Delhi",
         price: 12000,
@@ -121,7 +121,7 @@ export const propertylist = [
     {
         id: 9,
         title: "Casagrand Hazen",
-        imgUrl: "https://www.casagrand.co.in/wp-content/uploads/2022/08/372-x-202.png?ver=1.200",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/372-x-202.png_ver=1.200?updatedAt=1691842032191",
         address: "Bannerghatta Road, Bangalore",
         location: "Bangalore",
         price: 13000,
@@ -136,7 +136,7 @@ export const propertylist = [
     {
         id: 10,
         title: "Casagrand Lorenza",
-        imgUrl: "https://www.casagrand.co.in/wp-content/uploads/2018/12/1sideview.jpg?ver=1.200",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/1sideview.jpg_ver=1.200?updatedAt=1691842067553",
         address: "Hennur Main Road, Bangalore",
         location: "Bangalore",
         price: 12500,
@@ -151,7 +151,7 @@ export const propertylist = [
     {
         id: 11,
         title: "Brigade Apartments",
-        imgUrl: "https://cdn.brigadegroup.com/properties/gallery/1432013636555acb44e3462.jpg",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/1432013636555acb44e3462.jpg?updatedAt=1691842124097",
         address: "Banjara Hills, Hyderabad",
         location: "Hyderabad",
         price: 11000,
@@ -166,7 +166,7 @@ export const propertylist = [
     {
         id: 12,
         title: "Prestige High Fields",
-        imgUrl: "https://www.commercialproperty.review/wp-content/uploads/2021/03/Aparna-Serene-Park-Apartments-Kondapur-Hyderabad.jpg",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/Aparna-Serene-Park-Apartments-Kondapur-Hyderabad.jpg?updatedAt=1691842252989",
         address: "Kondapur, Hyderabad",
         location: "Hyderabad",
         price: 12000,
@@ -181,7 +181,7 @@ export const propertylist = [
     {
         id: 13,
         title: "Starlite Lotus Apartments",
-        imgUrl: "https://assets.architecturaldigest.in/photos/60083f49d0435267a8df9192/16:9/w_2560%2Cc_limit/mumbai-apartment-pka-interior-design-feature-02-866x487-1366x768.jpg",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/mumbai-apartment-pka-interior-design-feature-02-866x487-1366x768.jpg?updatedAt=1691842303357",
         address: "Apartment Goregaon East, Mumbai",
         location: "Mumbai",
         price: 12300,
@@ -196,7 +196,7 @@ export const propertylist = [
     {
         id: 14,
         title: "Karmvir Empire",
-        imgUrl: "https://is1-3.housingcdn.com/4f2250e8/1712c407dcaabdd8bb6b45ee75072f9d/v6/fs/shree_developers_shree_siddhi_apartment_mumbai-seawoods-mumbai-shree_developers.jpg",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/shree_developers_shree_siddhi_apartment_mumbai-seawoods-mumbai-shree_developers.jpg?updatedAt=1691842514879",
         address: "Apartment Chintal, Mumbai",
         location: "Mumbai",
         price: 9500,
@@ -211,7 +211,7 @@ export const propertylist = [
     {
         id: 15,
         title: "Eros Hotel",
-        imgUrl: "https://static.toiimg.com/photo/58015405.cms",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/58015405.cms?updatedAt=1691842557616",
         address: "Nehru Place, Delhi",
         location: "Delhi",
         price: 14000,
@@ -226,7 +226,7 @@ export const propertylist = [
     {
         id: 16,
         title: "Le Meridien",
-        imgUrl: "https://www.holidify.com/images/cmsuploads/compressed/100722895_20210512140405.jpg",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/100722895_20210512140405.jpg?updatedAt=1691842617572",
         address: "Juhu Hotels, Mumbai",
         location: "Mumbai",
         price: 6700,
@@ -241,7 +241,7 @@ export const propertylist = [
     {
         id: 17,
         title: "The Oberoi",
-        imgUrl: "https://qtxasset.com/quartz/qcloud1/media/image/luxurytraveladvisor/1594135552/Cape%20Fahn%2001.jpg/Cape%20Fahn%2001.jpg?VersionId=ZTfcf2fMAwWX9xeQleAceYiwhWMiF7e9",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/Cape_20Fahn_2001.jpg_VersionId=ZTfcf2fMAwWX9xeQleAceYiwhWMiF7e9?updatedAt=1691842679430",
         address: "Hotels in MG Road, Bangalore",
         location: "Bangalore",
         price: 7400,
@@ -256,7 +256,7 @@ export const propertylist = [
     {
         id: 18,
         title: "The Manohar",
-        imgUrl: "https://img.traveltriangle.com/blog/wp-content/uploads/2017/12/cover4.jpg",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/cover4.jpg?updatedAt=1691842733671",
         address: "Gachibowli, Hyderabad",
         location: "Hyderabad",
         price: 5000,
@@ -271,7 +271,7 @@ export const propertylist = [
     {
         id: 19,
         title: "Dreamz Lodge",
-        imgUrl: "https://cdn.kiwicollection.com/media/property/PR003171/l/003171-01-Lion%20Sands_Ivory%20Lodge_3_Villa%20Private%20Deck%20and%20Plunge%20Pool7-Lion%20Sands%20Ivory%20Lodge.jpg?cb=1623715490",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/003171-01-Lion_20Sands_Ivory_20Lodge_3_Villa_20Private_20Deck_20and_20Plunge_20Pool7-Lion_20Sands_20Ivory_20Lodge.jpg_cb=1623715490?updatedAt=1691842790853",
         address: "Sudhama Nagar, Bangalore",
         location: "Bangalore",
         price: 4000,
@@ -286,7 +286,7 @@ export const propertylist = [
     {
         id: 20,
         title: "Royal Regency Lodge",
-        imgUrl: "https://moneyinc.com/wp-content/uploads/2016/06/South-Africa-Lodges.jpg",
+        imgUrl: "https://ik.imagekit.io/wqjwh0cz6/Estatery/South-Africa-Lodges.jpg?updatedAt=1691842826575",
         address: "Near Airport, Hyderabad",
         location: "Hyderabad",
         price: 6000,
